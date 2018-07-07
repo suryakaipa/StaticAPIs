@@ -1,14 +1,113 @@
 {
-	"results": [
-{
-  "Question": "",
-  "Explanation": "",
-  "QueNo": 1,
-  "ChoiceA": "",
-  "ChoiceB": "",
-  "ChoiceC": "",
-  "ChoiceD": "",
-  "ChoiceE": "None of these",
-  "CorrectChoice": "ABCDE"
-},
-]}
+	"chats": [
+	{
+			"name": "Sindu",
+			"mobileNumber": "+91 9876543210",
+			"avatarUrl": "http://files.softicons.com/download/web-icons/baby-girl-icons-by-dapino/png/256x256/drinking.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "message",
+				"text": "Hi",
+				"readStatus": "delivered",
+				"isSent": true
+			},
+			"isGroup": false,
+			"timeStamp": 1530974963
+		},{
+			"name": "Renuka US",
+			"mobileNumber": "+12482270302",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2016/08/18/810858_toys_512x512.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "message",
+				"text": "Joining",
+				"readStatus": "read",
+				"isSent": true
+			},
+			"isGroup": false,
+			"timeStamp": 1530974863
+		},
+		{
+			"name": "Vaasu Room",
+			"mobileNumber": "+91 9010818222",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2015/12/21/691011_man_512x512.png",
+			"unReadMessageCount": 1,
+			"lastMessage": {
+				"type": "message",
+				"text": "That's ok np",
+				"readStatus": "unread",
+				"isSent": false
+			},
+			"isGroup": false,
+			"timeStamp": 1530974700
+		},
+		{
+			"name": "HMT Stars",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2017/06/01/886643_tv_512x512.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "image",
+				"readStatus": "unread",
+				"isSent": false,
+				"sentBy": "+91 9494959697"
+			},
+			"isGroup": true,
+			"timeStamp": 1530924700
+		},
+		{
+			"name": "Malli BK",
+			"mobileNumber": "+91 9010818222",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2015/12/21/691011_man_512x512.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "image",
+				"readStatus": "read",
+				"isSent": false
+			},
+			"isGroup": false,
+			"timeStamp": 1530874700
+		},
+		{
+			"name": "BKs Android Apps",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2017/06/01/886643_tv_512x512.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "message",
+				"text": "https://www.youtube.com/watch?v=3TNmQ1XM2fM",
+				"readStatus": "read",
+				"isSent": false,
+				"sentBy": "+91 8989890988"
+			},
+			"isGroup": true,
+			"timeStamp": 1530174700
+		},
+		{
+			"name": "Phani",
+			"mobileNumber": "+91 8787980998",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2015/12/21/691011_man_512x512.png",
+			"unReadMessageCount": 0,
+			"lastMessage": {
+				"type": "message",
+				"text" : "Bagunnara?"
+				"readStatus": "read",
+				"isSent": true
+			},
+			"isGroup": false,
+			"timeStamp": 1530874700
+		},
+		{
+			"name": "Software Professionals",
+			"avatarUrl": "https://www.shareicon.net/data/256x256/2017/06/01/886643_tv_512x512.png",
+			"unReadMessageCount": 1,
+			"lastMessage": {
+				"type": "message",
+				"text": "Joining",
+				"readStatus": "read",
+				"isSent": false,
+				"sentBy": "+91 9494959697"
+			},
+			"isGroup": true,
+			"timeStamp": 1530274700
+		}
+	]
+}
