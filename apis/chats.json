@@ -88,7 +88,7 @@
 			"unReadMessageCount": 0,
 			"lastMessage": {
 				"type": "message",
-				"text" : "Bagunnara?"
+				"text" : "Bagunnara?",
 				"readStatus": "read",
 				"isSent": true
 			},
