@@ -21,7 +21,7 @@
 			"name": "Karthick Vasan FL",
 			"mobileNumber": "+91 9876543210",
 			"avatarUrl": "http://files.softicons.com/download/web-icons/baby-girl-icons-by-dapino/png/256x256/drinking.png",
-			"callType": "Incoming",
+			"callType": "Outgoing",
 			"callCount": 4,
 			"timeStamp": 1530974963,
 			"callMode" : "Audio"
@@ -29,7 +29,7 @@
 		{"name": "Surekha",
 			"mobileNumber": "+91 9876543210",
 			"avatarUrl": "http://files.softicons.com/download/web-icons/baby-girl-icons-by-dapino/png/256x256/drinking.png",
-			"callType": "Incoming",
+			"callType": "Missed",
 			"callCount": 2,
 			"timeStamp": 1530974700,
 			"callMode" : "Audio"
@@ -107,7 +107,7 @@
 			"name": "Sesh",
 			"mobileNumber": "+91 9876543210 - 1",
 			"avatarUrl": "http://files.softicons.com/download/web-icons/baby-girl-icons-by-dapino/png/256x256/drinking.png",
-			"callType": "Incoming",
+			"callType": "Outgoing",
 			"callCount": 1,
 			"timeStamp": 1530924700,
 			"callMode" : "Video"
@@ -124,7 +124,7 @@
 		{"name": "Renuka US",
 			"mobileNumber": "+91 9876543210 - 1",
 			"avatarUrl": "http://files.softicons.com/download/web-icons/baby-girl-icons-by-dapino/png/256x256/drinking.png",
-			"callType": "Incoming",
+			"callType": "Missed",
 			"callCount": 1,
 			"timeStamp": 1530174700,
 			"callMode" : "Audio"
